@@ -1,7 +1,6 @@
 # XboxControllerHotkey v2.1
 
-A lightweight Windows app that lets you clip the last 60 seconds of 
-gameplay using your Xbox Controller — no mouse needed.
+Updated GUI version.
 
 ![XboxControllerHotkey GUI](screenshot.png)
 
